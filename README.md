@@ -40,4 +40,4 @@ The main objective is to build and compare several classical machine learning mo
 
 ## Results
 
-Public Kaggle Score: **0.76076**
+Public Kaggle Score: **0.77990**
