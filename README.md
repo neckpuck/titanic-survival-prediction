@@ -3,6 +3,7 @@
 End-to-end machine learning project for predicting passenger survival in the Kaggle Titanic competition — from raw data to a leak-safe, fully reproducible prediction pipeline.
  
 **Competition:** https://www.kaggle.com/competitions/titanic
+
 **Kaggle Notebook:** https://www.kaggle.com/code/neckpuck/titanic-survival-prediction
  
 ## Key Findings
